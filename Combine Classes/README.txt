@@ -1,0 +1,1 @@
+Take the classes of interest from the final combined database file add a unique identifier column to put it in the format given by the Input.xlsx, an example file.
